@@ -96,10 +96,10 @@ function handleSubmit() {
     if (res) {
       result.value = res
     } else {
-      error.value = 'Решение не найдено.'
+      error.value = 'Solution not found.'
     }
   } catch (e) {
-    error.value = 'Произошла ошибка при обработке данных.'
+    error.value = 'An error occurred while processing data.'
   }
 }
 </script>
