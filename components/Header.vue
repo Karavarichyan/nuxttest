@@ -18,7 +18,7 @@
         <NuxtLink to="/car-search" class="hover:text-yellow-400">car-search</NuxtLink>
       </li>
       <li>
-        <NuxtLink to="QuickSortNotM"  class="hover:text-yellow-400">QuickSortNotM</NuxtLink>
+        <NuxtLink to="QuickSortNotM"  class="hover:text-yellow-400">quickSortNonMutating </NuxtLink>
       </li>
     </ul>
   </nav>
