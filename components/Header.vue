@@ -1,4 +1,3 @@
-<!-- components/Header.vue -->
 <template>
   <nav class="bg-gray-800 p-4">
     <ul class="flex space-x-6 text-white">

@@ -98,7 +98,7 @@ function handleSubmit() {
     } else {
       error.value = 'Solution not found.'
     }
-  } catch (e) {
+  } catch (_e) {
     error.value = 'An error occurred while processing data.'
   }
 }
